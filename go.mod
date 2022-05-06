@@ -1,4 +1,4 @@
-module github.com/thashimoto1998/kyber/v3
+module github.com/thashimoto1998/x-kyber/v3
 
 require (
 	github.com/stretchr/testify v1.7.1
