@@ -10,7 +10,7 @@ import (
 	"io"
 	"math/big"
 
-	"go.dedis.ch/kyber/v3/xof/blake2xb"
+	"github.com/thashimoto1998/x-kyber/v3/xof/blake2xb"
 )
 
 // Bits chooses a uniform random BigInt with a given maximum BitLen.
