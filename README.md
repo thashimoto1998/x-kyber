@@ -36,7 +36,7 @@ Using the module
 ----------------
 
 Kyber supports Go modules, and currently has a major version of 3, which means that
-the import path is: `go.dedis.ch/kyber/v3`.
+the import path is: `github.com/thashimoto1998/x-kyber/v3`.
 
 Here is a basic example of getting started using it:
 1. Make a new directory called “ex". Change directory to “ex" and put this in main.go:
