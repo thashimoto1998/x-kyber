@@ -45,7 +45,7 @@ package main
 
 import (
     "fmt"
-    "go.dedis.ch/kyber/v3/suites"
+    "github.com/thashimoto1998/x-kyber/v3/suites"
 )
 
 func main() {
